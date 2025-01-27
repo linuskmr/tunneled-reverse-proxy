@@ -1,4 +1,3 @@
-use serde::{Serialize, Deserialize};
 
 pub enum DataServerToProxy {
     /// Data Server -> Proxy; control channel.
